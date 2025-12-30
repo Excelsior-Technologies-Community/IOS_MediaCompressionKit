@@ -8,7 +8,7 @@
 * Save media to Photos
 * Receive the **compressed image or video URL back in the parent view**
 
-It is **iOS 16+ compatible**, **App Store safe**, and designed to be **reusable in any SwiftUI project**.
+It is **iOS 15+ compatible**, **App Store safe**, and designed to be **reusable in any SwiftUI project**.
 
 ---
 
@@ -18,7 +18,6 @@ It is **iOS 16+ compatible**, **App Store safe**, and designed to be **reusable 
 * 🎥 Video compression (MP4 using AVFoundation)
 * 🧠 Native compression (no third-party libraries)
 * 🧩 Reusable SwiftUI component
-* 🔁 Callback-based API for parent views
 * 📱 Photo & Video picker using `PHPickerViewController`
 * 💾 Save to Photos with permission handling
 * 🧪 Safe defaults + extensible design
@@ -184,7 +183,7 @@ Why this approach?
 
 ## 🧪 Minimum Requirements
 
-* iOS **16.0+**
+* iOS **15.0+**
 * Swift **5.7+**
 * Xcode **15+**
 
